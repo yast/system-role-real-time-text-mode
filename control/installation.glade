@@ -11,10 +11,10 @@ textdomain="control"
     <texts>
       <headless_role>
         <!-- TRANSLATORS: a label for a system role -->
-        <label>Text Mode</label>
+        <label>Real Time ( Text Mode )</label>
       </headless_role>
       <headless_role_description>
-        <label>• X server without GNOME</label>
+        <label>• Real Time environment without GNOME</label>
       </headless_role_description>
     </texts>
 
