@@ -27,7 +27,7 @@
 #
 ######################################################################
 
-%define role_name text-mode
+%define role_name real-time-text-mode
 Name:           system-role-%{role_name}
 # xmllint (for validation)
 BuildRequires:  libxml2-tools
