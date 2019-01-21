@@ -6,4 +6,4 @@ services:
 before_install:
   - docker build -t yast-system-role-real-time-text-mode-image .
 script:
-- docker run -it -e TRAVIS=1 -e TRAVIS_JOB_ID="$TRAVIS_JOB_ID" yast-system-role-real-time-text-mode-image yast-travis-ruby
+  - docker run -it -e TRAVIS=1 -e TRAVIS_JOB_ID="$TRAVIS_JOB_ID" yast-system-role-real-time-text-mode-image ./.travis.sh
