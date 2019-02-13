@@ -1,4 +1,9 @@
 -------------------------------------------------------------------
+Wed Feb 13 05:55:34 UTC 2019 - Jeffrey Cheung <jcheung@suse.com>
+
+- Update and align the LICENSE file with other system roles
+
+-------------------------------------------------------------------
 Thu Jan 10 07:10:55 UTC 2019 - Jeffrey Cheung <jcheung@suse.com>
 
 - Initial commit: Add Text Mode system role to SLERT (bsc#1117734)
